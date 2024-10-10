@@ -1,6 +1,10 @@
+---
 layout: page
 title: "IDAES Process Systems Engineering Projects"
 permalink: /index
+---
+
+## About
 
 The Institute for the Design of Advanced Energy Systems (IDAES) Process Engineering Platform has spawned a number of projects that are directly related to the platform as well as a number of related projects.
 
